@@ -1,5 +1,15 @@
+
+<div align="center">
+  
+![Captura de tela 2024-04-13 122803](https://github.com/Mel-iza/Inteligencia-artificial-curso-comemorativo-dos-90-anos-da-USP/assets/72058182/4c494559-3a91-478a-a15a-aaa00bd2028c)
+
+
 # Inteligencia-artificial-curso-comemorativo-dos-90-anos-da-USP
 [Inteligência artificial curso comemorativo dos 90 anos da USP](https://www.youtube.com/watch?v=YDtgIHeHZTk)
+
+</div>
+
+
 ---
 
 ### Sobre o curso
@@ -14,13 +24,18 @@ O curso será ministrado pelos seguintes docentes:<br>
 > Nina Sumiko Tomita Hirata (IME-USP)<br>
 
 ### Disponibilidade
-O curso, com 6 horas de duração (ministrado de forma síncrona) e de caráter introdutório, apresentará uma visão geral da IA e abordará duas áreas relacionadas de grande destaque atual: o Processamento de Linguagem Natural e a Visão Computacional. [Disponível em](https://cursosextensao.usp.br/course/view.php?id=3867#section-4)
+O curso, com 6 horas de duração (ministrado de forma síncrona) e de caráter introdutório, apresentará uma visão geral da IA e abordará duas áreas relacionadas de grande destaque atual: o Processamento de Linguagem Natural e a Visão Computacional. <br> 
+- [Site com informações sobre o curso](https://cursosextensao.usp.br/course/view.php?id=3867#section-4)
+- [Slides do curso](https://cursosextensao.usp.br/pluginfile.php/1385789/mod_resource/content/0/IA90anosUSP-Completo.pdf)
 
 ### Bibliografia
-Russel, S.; Norvig, P. Artificial Intelligence: A Modern Approach. Pearson Education Limited. 4a edição. 2021. <br>
-Faceli, K.; Lorena, A.C.; Gama J.; Carvalho A.C.P.L.F. Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina. LTC. 2011. <br>
-Caseli, H.M.; Nunes, M.G.V. (org.) Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português. 2a edição. BPLN, 2024. Disponível em https://brasileiraspln.com/livro-pln/2a-edicao<br>
-Jurafsky, D.; Martin, J.H. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition. 3a edição (draft). 2024. Disponível em https://web.stanford.edu/~jurafsky/slp3/ <br>
-Gonzalez, R.C.; Woods, R.E. Processamento de imagens digitais. Edgard Blucher. 2000.<br>
 
+<div align="justify">
+  
+Russel, S.; Norvig, P. <b>Artificial Intelligence: A Modern Approach</b>. Pearson Education Limited. 4a edição. 2021. <br>
+Faceli, K.; Lorena, A.C.; Gama J.; Carvalho A.C.P.L.F. <b>Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina</b>. LTC. 2011. <br>
+Caseli, H.M.; Nunes, M.G.V. (org.) <b>Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português</b>. 2a edição. BPLN, 2024. Disponível em [site](https://brasileiraspln.com/livro-pln/2a-edicao)<br>
+Jurafsky, D.; Martin, J.H. <b>Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition</b>. 3a edição (draft). 2024. Disponível em [site](https://web.stanford.edu/~jurafsky/slp3/) <br>
+Gonzalez, R.C.; Woods, R.E. <b>Processamento de imagens digitais</b>. Edgard Blucher. 2000.<br>
 
+</div>
