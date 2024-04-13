@@ -3,8 +3,7 @@
   
 ![Captura de tela 2024-04-13 122803](https://github.com/Mel-iza/Inteligencia-artificial-curso-comemorativo-dos-90-anos-da-USP/assets/72058182/4c494559-3a91-478a-a15a-aaa00bd2028c)
 
-
-# Inteligencia-artificial-curso-comemorativo-dos-90-anos-da-USP
+## Inteligencia Artificial Curso Comemorativo dos 90 anos da USP
 [Inteligência artificial curso comemorativo dos 90 anos da USP](https://www.youtube.com/watch?v=YDtgIHeHZTk)
 
 </div>
