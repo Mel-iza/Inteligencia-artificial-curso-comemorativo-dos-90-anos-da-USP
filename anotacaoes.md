@@ -20,12 +20,14 @@ A importância da <b>inteligência</b>: como _homo sapiens_, valorizamos a intel
 🔸 O poder do nosso cérebro em perceber, entender, predizer e manipular um mundo complexo. <br>
 
 Na inteligência artificial: além do entendimento, a construção de <b>sistemas inteligentes</b>. <br>
-🔸 Máquinas que podem computar como agir de maneira _efetiva_ e _segura_ nas mais diversas situações. <br>
+🔸 <font color="blue">Máquinas</font> que podem computar como agir de maneira _efetiva_ e _segura_ nas mais diversas situações. <br>
 
 Alguns exemplos de uso de IA que utilizamos em aplicações no dia a dia: tradutores automáticos e corretores ortográficos, GPS, e o mais popular o chatGPT. 
 O chatGPT é um grande modelo de língua que necessita de uma quantidade imensa de dados para treinamento. A partir desses dados e da arquitetura do modelo, são capazes de utilizar representações da língua natural
 
-> 💭 A partir da década de 90 já tivemos sistemas inteligentes simbólicos. As ideias da década de 90 já foram baseadas em conceitos da linguística já presentes na década de 50.
+> [!TIP]
+>  A partir da década de 90 já tivemos sistemas inteligentes simbólicos. As ideias da década de 90 já foram baseadas em conceitos da linguística já presentes na década de 50.
+
 
 
 
