@@ -40,8 +40,11 @@ O que é inteligência? <br>
 Exemplo do pensamento dedutivo e indutivo da lógica e exemplo do avião. 
 
 Nosso cérebro é nosso centro de cognição. Searle (1992)
-> Armazenamento de memóerias e funções cognitivas superiores.
+> Armazenamento de memórias e funções cognitivas superiores.
 apresentação do onceito de LUGER (2013).
+
+<b>Gestação da IA (1943 - 1956)</b> <br>
+ 🔸 Warren McCulloch e Walter Pitts (1943)
 
 </div>
 
